@@ -12,7 +12,7 @@ The data for this project was sourced from a dataset available on Kaggle. The da
 
 ## Methods
 
-The project involves multiple steps including data cleaning, exploratory data analysis, model selection, hyperparameter tuning, and model evaluation.
+The project involves multiple steps including exploratory data analysis, model selection, hyperparameter tuning, and model evaluation.
 
 ### Data Cleaning and Exploration
 
